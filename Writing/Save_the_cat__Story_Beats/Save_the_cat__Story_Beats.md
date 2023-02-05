@@ -14,7 +14,7 @@ Since Snyder’s sheet was originally created for screenwriting, the bracketed n
 
   !["Opening Image Explained"](./images/opening_image_explained.png "Opening Image Explained")
 
-  A model space shuttle sitting on a bookshelf edge. Books, shelf and the model covered in brown dust. Dust particles in the air visibly inluminated by a nearby window.
+  A model space shuttle sitting on a bookshelf edge. Books, the shelf, and the model were covered in brown dust. Dust particles in the air were also visibly illuminated by a nearby window.
 
   Dorment immage for:
 
@@ -37,7 +37,7 @@ Since Snyder’s sheet was originally created for screenwriting, the bracketed n
 
   * Murph states: **"You said science was bout admitting what we don't know."**
 
-  * Cooper is presented as a strict scientific mind. **Will he be able to accept a non-scientific method as a solution to a problem?** (even when it comes preventing human extinction)
+  * Cooper is presented as a strict scientific mind. **Will he be able to accept a non-scientific method as a solution to a problem?** (even when it comes to preventing human extinction)
 
 ---
 
@@ -48,7 +48,7 @@ Since Snyder’s sheet was originally created for screenwriting, the bracketed n
 * Here comes a deeper, more detailed look at the status quo of the hero’s world, before it is violently shaken up. Crucial details about the **character flaws** they might be working to overcome will show up here too.
 
 * We meet our hero and see why we should root for them (**save the cat moment**).
-* Hero's world is established: challanges both external (environment / wants) and internal (falws / needs).
+* Hero's world is established: challanges both external (environment / wants) and internal (flaws / needs).
 
 
   **Example: `"Interstellar"`**
@@ -57,7 +57,7 @@ Since Snyder’s sheet was originally created for screenwriting, the bracketed n
 
   * External:
 
-    * **Earth is crisis** (dust storms, crops dying out)
+    * **Earth is in crisis** (dust storms, crops dying out)
     * Earth on verge of famine -> more farmers needed -> **Cooper's son will not be going to college**
 
   * Internal:
@@ -72,13 +72,13 @@ Since Snyder’s sheet was originally created for screenwriting, the bracketed n
 
 ### Something happens that sets the story in motion
 
-* Also known as the **inciting incident** in other structures, this major plot pointis the single moment that sets the hero on the course they will pursue over the story.
+* Also known as the **inciting incident** in other structures, this major plot point is the single moment that sets the hero on the course they will pursue over the story.
 
   **Example: `"Interstellar"`**
 
   !["Catalyst Explained"](./images/catalyst_explained.png "Catalyst Explained")
 
-  * Cooper story is set in motion when Nasa enlists him to help save Humanity. (Test of Will Cooper's faith in science save human race and he's children with it)
+  * Cooper's story is set in motion when NASA enlists him to help save Humanity. (Test of Will Cooper's faith in science save the human race and his children with it)
 
 ---
 
@@ -100,7 +100,7 @@ Since Snyder’s sheet was originally created for screenwriting, the bracketed n
 
 ### The hero takes up the challenge
 
-* After their moment of doubt, the hero decides to take on the challenge that’s been thrown their way and sets about dealing with the fall-out of the inciting incident.
+* After their moment of doubt, the hero decides to take on the challenge that’s been thrown their way and sets about dealing with the fallout of the inciting incident.
 
 * Transition to act two.
 
@@ -116,7 +116,7 @@ Since Snyder’s sheet was originally created for screenwriting, the bracketed n
 
 ### The subplot kicks in, introducing a character who helps the hero in their transformation
 
-* The B story, or subplot, is introduced fairly early and continues to run alongside the main plot for most of its duration. The B story usually involves a character (romantic interest / mentor / foil) who’s integral to helping the hero undergo their transformation.
+* The B story, or subplot, is introduced fairly early and continues to run alongside the main plot for most of its duration. The B story usually involves a character (romantic interest/mentor / foil) who’s integral to helping the hero undergo their transformation.
 
   **Example: `"Interstellar"`**
 
@@ -130,7 +130,7 @@ Since Snyder’s sheet was originally created for screenwriting, the bracketed n
 
 ### The hero in the throes of their challenge or journey
 
-* Despite the label, this beat might not actually entail any fun for the characters involved, and is also often referred to as the **‘promise of the premise’**. Here is where that action or central conflict that was promised, often in the hook of the story description, is delivered on.
+* Despite the label, this beat might not entail any fun for the characters involved and is also often referred to as the **‘promise of the premise’**. Here is where that action or central conflict that was promised, often in the hook of the story description, is delivered on.
 
 * Hero explores the world.
 
@@ -140,7 +140,7 @@ Since Snyder’s sheet was originally created for screenwriting, the bracketed n
 
   !["Fun and Games Explained"](./images/fun_and_games_explained.png "Fun and Games Explained")
 
-  * Endurance's crew lands on Miller's planet (explores new world). Crew suffers heavy losses - the mission tyrns out more difficult than it seemed.
+  * Endurance's crew lands on Miller's planet (explores a new world). Crew suffers heavy losses - the mission turns out more difficult than it initially seemed.
 
 ---
 
@@ -157,8 +157,8 @@ Since Snyder’s sheet was originally created for screenwriting, the bracketed n
   !["Midpoint Explained"](./images/midpoint_explained.png "Midpoint Explained")
 
   * Point of no return.
-  * Cooper nearly escapes death. He comes back on Endurace finding the time diolation costed him 22 year of his chilred's life. They are all grow up now.
-  * Endurance crew has to bet on a planet. The lack the fuel to visit two worlds.
+  * Cooper nearly escapes death. He comes back on Endurance finding the time dilation cost him 22 years of his children's life. They are all grown up now.
+  * Endurance crew has to bet on a planet. They lack the fuel to visit two worlds.
 
 ---
 
@@ -174,7 +174,7 @@ Since Snyder’s sheet was originally created for screenwriting, the bracketed n
 
   !["Bad Guys Close In Explained"](./images/bad_guys_close_in_explained.png "Bad Guys Close In Explained")
 
-  * **Internal:** Cooper's decision to abandon his children to garantee their better future turns out to be a lie. He's children are stuck on Earth. They are going to die. 
+  * **Internal:** Cooper's decision to abandon his children to guarantee  their better future turns out to be a lie. He's children are stuck on Earth. They are going to die. 
   * **External:** Endureance's crew is betrayed by selfish Dr. Mann.
 
 ---
@@ -189,7 +189,7 @@ This is the moment where everything comes crashing down for the hero and they re
 
   !["All is Lost Explained"](./images/all_is_lost_explained.png "Bad All is Lost Explained")
 
-  * Cooper realizes at this point in he's journey, he has no logical solution to the problem of comming back to he's children. They will die of old age before he can reach them, and there isn't enough resources in the space ship to get back to earth anway.
+  * Cooper realizes at this point in his  journey, he has no logical solution to the problem of coming back to his  children. They will die of old age before he can reach them, and there aren't enough resources in the spaceship to get back to earth anyway.
 
 ---
 
@@ -203,7 +203,7 @@ This is the moment where everything comes crashing down for the hero and they re
 
   !["Dark Night of the Soul Explained"](./images/dark_night_of_the_soul_explained.png "Dark Night of the Soul Explained")
 
-  * Cooper's sacriface puts him inside the tesseract (a mesterious construct where time is represented as a phicical dimention)
+  * Cooper's sacrifice puts him inside the tesseract (a mysterious construct where time is represented as a physical dimension)
   * Cooper is forced to relive he's greatest mistake - leaving his children to go on the false mission
 
 ---
@@ -219,7 +219,7 @@ This is the moment where everything comes crashing down for the hero and they re
   !["Break Into Three Explained"](./images/break_into_three_explained.png "Break Into Three Explained")
 
   * Cooper realizes he can communicate with the past through gravity.
-  * Even though he does not fully understand how the newfound solution works Cooper is going to do whatever he can (even use the unexplained tesseract) to save his children.
+  * Even though he does not fully understand how the newfound solution works, he'll do whatever he can (even use the unexplained tesseract) to save his children.
 
 ---
 
@@ -227,7 +227,7 @@ This is the moment where everything comes crashing down for the hero and they re
 
 ### Putting their new awareness into action, the hero conquers the bad guys
 
-* The hero overcomes the problems they were facing with the help of their newly discovered truth.
+* The hero overcomes the problems they're facing with the help of their newly discovered truth.
 
 * Five distinct sub-beats:
 
@@ -253,10 +253,10 @@ This is the moment where everything comes crashing down for the hero and they re
     * Murph successfully decodes the data and Cooper is ejected out of the Tesseract
   * **High tower suprise**:
     * Cooper is rescued
-    * reconects with he's daughter
-    * He's doaughter is on her daeth bed
+    * reconects with his daughter
+    * His doaughter is on her daeth bed
   * **Dig deep down:**
-    * Cooper has to "dig deep down" - find the inner strength to leave once again ("A parent shouldn't watch he's child death")
+    * Cooper has to "dig deep down" - find the inner strength to leave once again ("A parent shouldn't witness his child's death")
   * **Execute a new plan:**
     * Cooper flyes to meet with Dr. Brand on Edmund's planet
 
