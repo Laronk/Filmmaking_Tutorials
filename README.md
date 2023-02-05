@@ -18,7 +18,7 @@ For the complete list of resources not created by myself see file: [**EXTERNAL_R
 
 English is not my first language, but for some reason it is a prefered way of taking notes. Those years of learing programing weren't for nothing apparently.
 
-I'll try to share all my notes in English or provide translations for the already existing notes.
+I'll try to share all my notes in English and provide translations for the already existing notes.
 
 ---
 
