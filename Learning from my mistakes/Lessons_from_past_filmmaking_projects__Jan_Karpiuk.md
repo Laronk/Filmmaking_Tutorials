@@ -2,6 +2,8 @@
 
 ## 0. `---` | MINE AGH Challenge: "Colors"
 
+### Result: [Project did not conclude](./Lessons_from_past_filmmaking_projects__Jan_Karpiuk.md)
+
 ### Bad:
 
 - **`Don't fear asking for help with anything.` Nobody's out to steal your idea. It is shitty anyway.**
@@ -21,6 +23,8 @@
 ---
 
 ## 1. `"FENIX MATCHES"` | MINE AGH Challenge: "Advertisement"
+
+### Result: [FENIX MATCHES | Advertisement](https://www.youtube.com/watch?v=67lx43Paau8)
 
 ### Bad:
 
@@ -52,6 +56,8 @@
 
 ## 2. `"(A)SYMMETRY"` | MINE AGH Challenge: "(a)symmetry"
 
+### Result: [(A)SYMMETRY | Short Film](https://www.youtube.com/watch?v=JE9tMI3Jd1k)
+
 ### Bad:
 
 - **`Two different temperature light sources in one shot >:C`**
@@ -79,6 +85,9 @@
 ---
 
 ## 3. `"PAPER MAILMAN"` | MINE AGH Challenge: "Water"
+
+
+### Result: [PAPER MAILMAN | Short Film](https://www.youtube.com/watch?v=JtCTOG7gCSQ)
 
 ### Bad:
 
@@ -146,7 +155,7 @@
 
 ### Bad:
 
-- **Make sure the hair position matches between shots on your actors. (!!! Especialy whomen with long hair !!!)**
+- **Make sure the hair position matches between shots on your actors. (!!! Especialy those with long hair !!!)**
 
 ### Good:
 
