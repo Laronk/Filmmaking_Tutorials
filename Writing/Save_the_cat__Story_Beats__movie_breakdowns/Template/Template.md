@@ -1,4 +1,4 @@
-# "Save the cat" Story Beats movie breakdown: The Secret Life of Walter Mitty (2013):
+# "Save the cat" Story Beats movie breakdown: Placeholder_film_title (Placeholder_film_release_date):
 
 ## 1. **Opening image `[1]`**
 
