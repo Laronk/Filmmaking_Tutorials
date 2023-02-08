@@ -149,6 +149,7 @@ Since Snyder’s sheet was originally created for screenwriting, the bracketed n
 ### The stakes are raised
 
 * This point signals the culmination of the action of the ‘fun and games’. Stakes are raised by a plot twist that likely takes the form of a false victory — a moment where the hero mistakenly believes they have won
+* tie in events from the first half of the movie with the second half
 
 * Point of no return. False victory or false defeat.
 
