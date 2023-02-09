@@ -2,8 +2,16 @@
 
 ## 1. **Opening image `[1]`**
 
+Establishing shot on New York's skyscrapers.
+
+Peaceful day. The contrast here stems from the score. Orchestra building towards something sinnister. When the title is reavealed the clock starts ticking, literaly. There is a clock in the score for a moment.
+
+scyscrapers (wealth, cages of concrete and steel)
+
 
 ## 2. **Theme stated `[5]`**
+
+**Impoertant note: the movie takes place in autumn** (heavy rainign season - comes to play a part later in the story). Main character's marrige has just 'died' (divorce) as things do in autumn.
 
 
 ## 3. **Set up `[1-10]`**
