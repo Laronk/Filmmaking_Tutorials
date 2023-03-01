@@ -1,6 +1,8 @@
 # "Save the cat" Story Beats movie breakdown: Panic Room (2002):
 
-## 1. **Opening image `[1]`**
+**Impoertant note: the movie takes place in autumn** (heavy rainign season - comes to play a part later in the story). Main character's marrige has just 'died' (divorce) as things do in autumn.
+
+## 1. **Opening image `[00:01]`**
 
 Establishing shot on New York's skyscrapers.
 
@@ -9,13 +11,18 @@ Peaceful day. The contrast here stems from the score. Orchestra building towards
 scyscrapers (wealth, cages of concrete and steel)
 
 
-## 2. **Theme stated `[5]`**
+## 2. **Theme stated `[00:07]`**
 
-**Impoertant note: the movie takes place in autumn** (heavy rainign season - comes to play a part later in the story). Main character's marrige has just 'died' (divorce) as things do in autumn.
+Main character is hiding from conflict (divorce, doesn't even want to call "a bitch" her ex-husbands lover), but over the course of the movie she learns to fight for what she loves by tackling the problems head on.
 
+"The alarm goes off in the middle of the night, what are you going to do? Call the police and wait 'till Tuesday? Traipse downstairs in your underthings to check it out? I think not."
+~ Lydia Lynch (Estate Saleswoman)
+
+Lydia hints here at the theme of confronting the intruders in your house - not beeing a coward and fighting for what is yours.
 
 ## 3. **Set up `[1-10]`**
 
+Meg Altman (Jodie Foster's character) is a, recently deivorced, mum of a single child - Sarah Altman (Kristen Stewart). We learn more about our characters as the two whamen are seeing the place, and later eat their first meal in the newly aquired property.
 
 ## 4. **Catalyst `[12]`**
 
