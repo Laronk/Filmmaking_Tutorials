@@ -149,6 +149,10 @@
 
     SAVE YOURSELF A TON OF TIME AND PHYSICAL LABOUR ON LOCATION!
 
++ **`Diversify lighting and shadows on your subject` using shadows cast by existing obstacles. Position the subject half in the shadows. Seek out buildings, spaces under bridges, large trees.**
+
+    MAKE YOUR ENVIRONMENT WORK FOR YOU
+
 ---
 
 ## 4. `"PERSPEKTYWY"` | MINE AGH Short Film: ""
