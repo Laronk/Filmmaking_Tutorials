@@ -154,19 +154,7 @@
 
 ---
 
-## 4. `"PERSPEKTYWY"` | MINE AGH Short Film:
-
-### Bad
-
-- **Make sure the hair position matches between shots on your actors. (!!! Especialy those with long hair !!!)**
-
-### Good
-
-+
-
----
-
-## 5. `"HIDING PLACE"` | MINE AGH Challenge: "HORROR"
+## 4. `"HIDING PLACE"` | MINE AGH Challenge: "HORROR"
 
 ### Bad
 
@@ -179,7 +167,7 @@
 
 ---
 
-## 6. `""` | MINE AGH Challenge: ""
+## 5. `""` | MINE AGH Challenge: ""
 
 ### Bad
 
