@@ -66,13 +66,15 @@
 
 ### Notes
 
-- Nie wyłączać lamp żarowych przyciskiem, gdy są rozgrzane. Należy najpierw "zdimmować" światło i jeśli nie jest konieczne wyłączenie lampy od prądu, to można ją zostawić w takim wygaszonym stanie. Gwałtowne wyłączenie (skok napięcia) może spalić rozgrzany żarnik.  
+- Nie wyłączać lamp żarowych przyciskiem (On/Off), gdy są rozgrzane. Należy najpierw "zdimmować" światło i jeśli nie jest konieczne wyłączenie lampy od prądu, to można ją zostawić w takim wygaszonym stanie. Gwałtowne wyłączenie (skok napięcia) może spalić rozgrzany żarnik.  
 
 - Kino Flo - firma i typ lampy fluorescencyjnej
 
 - Ośmiorniczka - kabel do podpinania lamp fluorescencyjnych
 
 - Dimmery - zmiana natężenia światła i\lub jego barwy
+
+- Jumbo - duża lampa żarowa 2kW 3200K
 
 ### Bad
 
