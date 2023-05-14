@@ -106,7 +106,9 @@
 
 - **`Make sure you have a good rest before the job.`**
   
-  Make plans that include SLEEP! An hour of sleep a day is not a viable strategy!  
+  Make plans that include SLEEP! An hour of sleep a day is not a viable strategy!
+
+- **`Mask the tape against the background.`** Have at least black and white gaffer tapes with you. Ideally, have grey gaffer tape in your pack as well.
 
 ### Good
 
