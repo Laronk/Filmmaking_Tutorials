@@ -84,25 +84,43 @@
 
 +
 
-Płacz nad rozlanym. Preludium
-
 ---
 
-## 4. `""` | Film set (dd.mm.yyyy): ""
+## 4. `"Płacz nad rozlanym. Preludium"` | Photo vernissage BIS & KSAF AGH (12.05.2023):
 
-**ROLE:**
+### [Project poster](https://www.facebook.com/photo?fbid=722732092995800&set=a.539586634643681)
+
+**ROLE:** Gaffer
 
 ### Bad
 
--
+- **`When mounting LED stick lights make sure they aren't pressed up against anything that could dent the plastic when it will inevitably heat up.`**
+
+    LED stick lights don't heat as much as incandescent lightbulbs do, but it is enough to heat up the diffusing plastic material they are encased in (especially if left on for longer periods). The heated-up plastic casing is subject to deformation under pressure and in extreme cases can be damaged beyond repair (break in structural integrity).
+
+    **`Avoid fixing LED light sticks using wires and thin strings/threads. Use regular old, reliable gaffer tape instead. Do not use paper tape! You don't need the risk of a fire.`**
+
+- **`Use location lights to your advantage (especially if you are short on gear and time).`**
+
+    Remember to try and test out the lighting setup already on location during a light study. Some locations might have some great lighting setups already installed.
+
+- **`Make sure you have a good rest before the job.`**
+  
+  Make plans that include SLEEP! An hour of sleep a day is not a viable strategy!  
 
 ### Good
 
-+
++ **`Do a proper light study of the area you are going to light.`** See the place as it is lit by natural light at the exact time of an event beforehand.
+
++ **`Don't trip any breaks!`** Inquire about and verify the power capabilities of the locations you're about to light. You will save yourself, your crew and the owner a headache. Additionally, you won't risk damaging any of the equipment. 
+
++ **`Take location light reference photos.`** Get some reference material to look at and plan a light set up later on. Save mental space and don't miss out on any key information. Human memory is flawed!
+
++ **`Take reference photos of your finished work.`** Remember what worked and what didn't for long. Have some material to show to potential clients. Own your hard work and success.
 
 ---
 
-## 5. `""` | Film set (dd.mm.yyyy): ""
+## 5. `""` | Film set (dd.mm.yyyy):
 
 **ROLE:**
 
