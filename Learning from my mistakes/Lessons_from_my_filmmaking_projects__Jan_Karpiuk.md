@@ -190,24 +190,51 @@
 
 ### Bad
 
-- no sleep
-- explain your vision to the production manager (they can double check you on set)
-- incomplete prep - UV lipstick was not tested
-- create the background first, then match lighting in the studio to the background (or use relight Resolve Capability)
-- test reading - estimate film runtime, some dilogue only looks good on paper
--
+- **`YOU NEED SLEEP`**
+  
+    Make sure you get a good night's rest before the shoot. Sleep depravation will make you sloppy, forgetfull and iritable. **You will miss important detalis and be hard to work with on set.**
+
+- **`THE PRODUCTION MANAGER NEEDS TO UNDERSTAND YOUR VISION`**
+  
+  Explain your vision to the production manager especialy. They will be the person on set double checking you. Filmmaking is a colaboration. **You can't remember everything at once!**
+
+- **`TEST ALL VFX BEFOREHAND`**
+  
+  Incomplete preparations with visual effects might cause problems in postproduction. Save yourself time and trouble.
+  
+- **`COMPOSITING GREENSCREEN - BACKGROUND FIRST`**
+  
+  When you don't have resources or time to create virtual environments for the scenes **start from shoothing the background.** This will provide you with lighting reference that can be recreated in shooting studio / sound stage. The final greenscreen composite will have consistant lighting across background and subjects. (Liferaft - relight Resolve Capability, bu takes a long time and a lot of processing power)
 
 ### Good
 
-- **`KNOW YOUR CAMERA - DYNAMIC RANGE & SIGNAL TO NOISE RATIOS`**
+- **`ESTIMATE FILM RUNTIME - TEST SCREENPLAY READING`**
+  
+  estimate film runtime, some dilogue only looks good on paper
 
-- brake for pizza (time to reflect on work done so far)
-- go over the plot, character's backstory and motivation with actors
-- let actors perform their interpretations of the characters on the first take (if there is time for it) - you might get some interesting insight into the characters
-- get feedback on the screenplay from as many people as you possibly can
-- understand your true role as a director **on set** - keep actors' emotions in check and dialogue on track
-- trust your team, filmmaking is a collaboration -
--
+- **`SCREENPLAY - GATHER FEEDBACK`**
+  
+  Verrify your screenplay makes sence to as vide an audience as you can. **Be open to all the criticism. In the end it's you who decides if the advice is worth anything.**
+
+- **`KNOW YOUR CAMERA - DYNAMIC RANGE & SIGNAL TO NOISE RATIOS`**
+  
+  Know how much dynamic range and signal-to-noise ratio each ISO setting gives you and **choose the best settings for your needs.**
+
+- **`MAKE CRAFT BREAKS AFTER 4 H`**
+  
+  Plan craft breaks for your crew - **take care for your crew**. Breaks will help everybody get refreshed. **You will have time to recap the progress done so far and plan next actions.**
+
+- **`DISCUSS CHARACTERS WITH ACTORS BEFOREHAND`**
+  
+  **Go over the plot, character's backstory and motivation with actors before the shoot.** Actors need to understand the characters they are portraying.
+  
+- **`CAPTURE ACTORS INTERPRETATION OF THE ROLES`**
+  
+  Let actors perform their interpretations of the characters on the first take (if there is time for it) - **you might get some interesting insight into the characters.**
+
+- **`DIRECTOR - KNOW YOUR ROLE ON SET`**
+  
+  Yor true **role as a director on set is to keep actors' emotions in check and dialogue on track.** Make sure you are getting the performance you want. **Trust (but verify) your crew**- give people responsibilities: audio, camera and lighting if you can. You are only a single person, wearing multiple hats might overwhelm you and cause you to miss something important.
 
 ---
 
