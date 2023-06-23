@@ -6,19 +6,21 @@
 
 ### Bad
 
-- **`Don't fear asking for help with anything.` Nobody's out to steal your idea. It is shitty anyway.**
+- **`ASK FOR HELP`**
 
-    ASK FOR HELP! NOTHING WORST THAN YOU NOT MAKING YOUR IDEA A REALITY CAN HAPPEN!
+    People are more helpfull than you think. Nobody's out to steal your idea. It is shitty anyway. **Nothing worst than you not making your idea a reality can happen!**
 
-- **`Check what equipement you have avaliable for your shoot.` Have someone more experienced walk you through the purpose, and use of every piece of equipement. Take notes.**
+- **`KNOW YOUR EQUIPEMENT`**
 
-    DO NOT PRESUME YOU WILL FIGURE THE EQUIPMENT OUT DURING THE SHOOT! YOU WILL MOST LIKELY NOT!
+    Check what equipement you have avaliable for your shoot. Have someone more experienced walk you through the purpose, and use of every piece of equipement. **Take notes.**
+
+    **Do not presume you will figure the equipment out during the shoot! you will most likely not!**
   
 ### Good
 
-- **`Make reaserch` on the types of shots, shooting a specific subject, you want in your footage.**
+- **`RESEARCH SHOTS YOU WANT TO MAKE`**
 
-    THERE IS A LOT OF REFERENCE MATERIAL AND TUTORIALS OUT THERE. LEARN FROM THESE.
+    Know how to achieve the types of shots, shooting a specific subject, you want in your footage. There is a lot of reference material and tutorials out there. **Learn from others.**
 
 ---
 
@@ -28,29 +30,35 @@
 
 ### Bad
 
-- **`Shooting in the dark REQUIRES a camera made for that purpose.` Othervise prepare for a lot of noise in your video!**
+- **`NO LIGHT - NO FILM`**
 
-    SOME NOISE IS ACCEPTABLE. TO MUCH AND NO DENOISIFIER SOFTWARE WONT BE ABLE TO HELP YOUR ASS!
-    OH, YOU WANT TO SHOOT IN COMPLETE DARKNESS, HMMM...? GO INFRARED, IDIOT.
-    FILM IS PAINTING WITH LIGHT. NO LIGHT - NO PAINTING.
+    Shooting in the dark REQUIRES a camera made for that purpose. Othervise prepare for a lot of noise in your video!
 
-- **Do not shoot on public or private roads at night, without any lights. You will get run over ba a vehicle.**
+    Some noise is acceptable, to much and no denoisifier software will be able to help your ass!
+    Oh, you want to shoot in complete darkness, hmmm...? Go infrared, idiot.
+    **Film is painting with light. No light - No painting.**
 
-  `THINK ABOUT WHERE YOU ARE SHOOTING, AND THE DANGERS IT PRESENTS TO YOU, YOUR CREW, AND THE EQUIPMENT.`
+- **`MIND THE DANGERS OF THE LOCATION`**
+
+    Think about where you are shooting, and the dangers it presents to you, your crew, and the equipment.
+
+    Do not shoot on public or private roads at night, without any lights. You will get run over ba a vehicle.
 
 ### Good
 
-- **Have a more experienced person handle the stuff you can not yet do**
+- **`LEARN FROM MORE EXPERIENCED PEOPLE`**
   
-    `LEARN FROM MORE EXPERIENCED PEOPLE.` SAVE TIME DURING THE SHOOT.
+    Have a more experienced person handle the stuff you can not yet do. **Save time during the shoot** and **learn from others**.
 
-- **`Think about the equipment you will need for your shots`**
+- **`GET EQUIPMENT RIGHT FOR YOUR NEEDS`**
 
-    IF YOUR SUBJECT IS A DANGER TO YOU OR THE EQUIPMENT, IT MIGHT BE A GOOD IDEA TO KEEP YOUR DISTANCE AND USE A NARROW LENSE.
+    **Plan your shots with the right equipement in mind.**
 
-- **`Done is better than perfect / finished`**
+    If your subject is a danger to you or the equipment (like fire), it might be a good idea to keep your distance and use a narrow lense.
 
-    IF YOU HAVE REACHED YOUR BEST OR RUN OUT OF TIME, AND YOU STILL THINK THE VIDEO LOOKS BAD. SHOW IT TO OTHERS, MORE EXPERIENCED PEOPLE ANYWAY. AT LEAST YOU DID SOMETHING!
+- **`DONE IS BETTER THAN PERFECT`**
+
+    If you have reached your best or run out of time, and you still think the video looks bad... Show it to others, more experienced people anyway. **At least you finished something!**
 
 ---
 
@@ -60,27 +68,27 @@
 
 ### Bad
 
-- **`Two different temperature light sources in one shot >:C`**
+- **`LIGHTING SUBJECT WITH DIFERENT TEMPERATURE LIGHTS - PAIN IN COLOR CORRECTION`**
   
-    PAIN IN COLOR CORRECTION!
+    You will have to dynamicly colorcorrect your footage, when lighting your subject with lightsources of different temperatures in a single shot. **Save yourself and your colorist the trouble!**
 
-- **You can `correct for lense warp in post production`**
+- **`YOU CAN CORRECT LENSE WARP IN POST`**
   
-    IT IS POSSIBLE! NO STRAIGHT WALLS BENDING AT THE FRAME EDGE!
+    It is possible! **No straight walls bending at the frame edge.** It is fine if that's you'r vission tho...
 
-- **`Have at least one other person to help you shoot`**
+- **`MINIMAL FILM CREW - 2 PEAOPLE`**
 
-    FRIENDS MAKE LIFE EASIER! THERE MIGHT BE (WILL BE) UNEXPECTED, ON LOCATION PROBLEMS WHITCH CAN'T BE SOLVED ON YOUR OWN!
+    Friends make life easier! **There will come unexpected, on location problems whitch can't be solved on your own!** Save time and learn to colaborate with others.
 
 ### Good
 
-- **`Make a shitty previz video in an hour`. Shoot it even with your shitty phone camera.**
+- **`MAKE A PREVIZ VIDEO`**
 
-    TEST THE IDEA BEFORE YOU COMMIT TO IT. YOU WILL SEE HOW YOU CAN IMPROVE UPPON THE INITIAL CONCEPT.
+    **Test the idea before you commit to it.** Shoot it even with your shitty phone camera. You will see how you can improve uppon the initial concept.
 
-- **`Have a piece of white paper for referencing the color temperature`**
+- **`HAVE A WHITE SURFACE IN EVERY SHOT FOR LIGHT TEMPERATURE REFERENCE`**
 
-    HELP YOURSELF IN POSTPRODUCTION. I KNOW, TEDIOUS EXTRA FEW SECONDS IN EVERY SHOT... YOU WILL THANK YOURSELF LATER. TRUST ME IT IS WORTH IT.
+    Help yourself in postproduction. I know, tedious extra few seconds in every shot... You will thank yourself later. Trust me, it is worth it.
 
 ---
 
@@ -90,39 +98,39 @@
 
 ### Bad
 
-- **`Selection and Edit are not 80% of the job in post production!` They are only 50%!**
+- **`VIDEO EDIT IS ONLY =< 30% OF THE POST WORKLOAD`**
 
-    DON'T PLAN YOUR SHEDULE THINKING THAT EDITED FOTTAGE IS BASICLY A DONE FILM. YOU MIGHT PUT EQUAL, IF NOT MORE, TIME IN SOUND DESIGN AND COLORING.
+    **Don't plan your postproduction shedule thinking that edited fottage is basicly a done film.** you need time for coloring, sound design and eventual VFX/CGI.
 
-- **`Have a proper shotlist ready`**
+- **`HAVE A SHOTLIST READY ON LOCATION`**
 
-    A SHOTLIST WILL SAVE YOU TIME ON LOCATION. YOU CAN ALWAYS EXPERIMENT AND SEARCH FOR EXTRA SHOTS WHEN YOU FINISH THE MAIN ONES.
+    **Save time on location. Keep track of shooting progress. Prioritize key shots.** You can always experiment and search for extra shots when you finish the main ones.
 
-- **`Bring a pencil and an eraser to the set. In fact bring a whole pencilcase.` You never know when you will need some basic drawing supplies.**
+- **`BRING BASIC DRAWING SUPPLIES ON SET`**
 
-    A PENCIL WILL NOT GET WET OR STOP WORKING + YOU CAN ERASE IT.
+    A pencil will not get wet or stop working + you can erase it. In fact bring a whole pencilcase. You never know when you will need some basic drawing supplies.
 
-- **`Make notes judging the shots you have made`**
+- **`MAKE NOTES ON DONE TAKES`**
 
-    SAVE TIME SEARCHING FOR THE RIGHT SHOTS IN POSTPRODUCTION.
+    Save time in postproduction searching for the right takes.
 
-- **It is not enough to have a story and shots planed out. `You need to know how the shots will connect in the editing.`**
+- **`PLAN YOUR SHOTS WITH THE EDITING IN MIND`**
 
-    PLAN YOUR SHOTS WITH THE EDITING IN MIND, NOT ONLY THE STORY!
+    It is not enough to have a story and shots planed out. You need to know how the shots will connect in the editing. **Know transitions between individual shots and scenes.**
 
-- **For `shots with a narrower lense use more stabilization` than a shoulder rig. A tripod or at least a gyro-stabilizer is in order.**
+- **`LONGER FOCAL LENGTH - MORE STABILIZATION NEDED`.**
 
-    BE MINDFULL OF HOW MUCH STABLILIZATION YOU NEED FOR WHICH LENSE.
+    For **shots with a narrower lense use more stabilization** than a shoulder rig. A tripod or at least a gyro-stabilizer is in order.
 
-- **For a shoot longer than 2h, `take a snack with you.`**
+- **`TAKE A SNACK ON SET`**
 
-    YOU ARE A LIVING BEING. YOU NEED SUSTENANCE! YOUR HEAD WILL HURT OTHERWISE.
+    You are a living being. You need sustenance! **Your head will hurt if you do not eat!**
 
 ### Good
 
-- **`Scout the location for possible shots beforehand.` Take lots of pictures!**
+- **`SCOUT THE LOCATION FOR POSSIBLE SHOTS`**
 
-    IF YOUR SHOOT IS MORE ELABORATE, AND NEEDS TO TELL A COHERENT STORY GO TO THE LOCATION AT LEAST TWICE. IT WILL HELP YOU COME UP WITH THE SHOTS. IT WILL ALSO SAVE TIME DURING THE SHOOTING.
+    **Take lots of pictures!** If your shoot is more elaborate and needs to tell a coherent story go to the location at least twice. It will help you come up with the shots. It will also **save time during the shooting**.
 
 - **You can `incorporate the white surface for referencing light temperature into your subject's design.` Have it always visible in your shots.**
 
@@ -156,6 +164,8 @@
 
 ## 4. `"HIDING PLACE"` | MINE AGH Challenge: "HORROR"
 
+### Result: [PAPER MAILMAN | Short Film](https://www.youtube.com/watch?v=JtCTOG7gCSQ)
+
 ### Bad
 
 - color temp.
@@ -167,11 +177,40 @@
 
 ---
 
-## 5. `""` | MINE AGH Challenge: ""
+## 5. `"PULP NOIR"` | MINE AGH Challenge: ""
+
+### Result: [PULP NOIR | Short Film](./Lessons_from_past_filmmaking_projects__Jan_Karpiuk.md)
 
 ### Bad
 
+- no sleep
+- explain your vision to the production manager (they can double check you on set)
+- incomplete prep - UV lipstick was not tested
+- create the background first, then match lighting in the studio to the background (or use relight Resolve Capability)
+- test reading - estimate film runtime, some dilogue only looks good on paper
 -
+
+### Good
+
+- brake for pizza (time to reflect on work done so far)
+- go over the plot, character's backstory and motivation with actors
+- let actors perform their interpretations of the characters on the first take (if there is time for it) - you might get some interesting insight into the characters
+- get feedback on the screenplay from as many people as you possibly can
+- understand your true role as a director **on set** - keep actors' emotions in check and dialogue on track
+- trust your team, filmmaking is a collaboration -
+-
+
+---
+
+## 6. `"TITLE"` | Film project type
+
+### Result: [Title | Film project type](./Lessons_from_past_filmmaking_projects__Jan_Karpiuk.md)
+
+### Bad
+
+- **`CORE TAKEAWAY MESSAGE`**
+
+    Further elaboration... **Trully important part of the elaboration.**
 
 ### Good
 
