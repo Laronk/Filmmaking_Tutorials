@@ -132,33 +132,33 @@
 
     **Take lots of pictures!** If your shoot is more elaborate and needs to tell a coherent story go to the location at least twice. It will help you come up with the shots. It will also **save time during the shooting**.
 
-- **You can `incorporate the white surface for referencing light temperature into your subject's design.` Have it always visible in your shots.**
+- **`INCORPORATE THE LIGHT TEMPERATURE WHITE SURFACE INTO YOUR SUBJECT'S DESIGN`**
 
-    NO NEED TO WASTE TIME ON LOCATION.
+    Have it always visible in your shots. **No need to waste time on location** for showing a white pice of paper for the camera.
 
-- **If you have any `extra batteries avaliable, even partialy charged, and wondering if you should take them... Take those batteries!!!`**
+- **`TAKE EVERY SPARE BATTERY WITH YOU`**
 
-    TAKE EVERY SPARE BATTERY YOU CAN GET YOUR HANDS ON!!! TAKE A CHARGER TOO, IF YOU CAN.
+    If you have any extra batteries avaliable, even partialy charged take them... Take every spare battery you can get your hands on!!! **Take a charger too, if you can.**
 
-- **`Shoot some b-roll footage in between main shots.` You never know when you might need a cutaway in editing!**
+- **`SHOOT B-ROLL FOOTAGE`**
 
-    B-ROLL IS A SAFETY NET FOR YOUR SHITTY OR MISSING MAIN SHOTS. TAKE CARE TO HAVE SOME.
+    B-roll is **a safety net for editing** your shitty or missing main shots. Take care to have some. You never know when you might need a cutaway in editing.
 
 - **`B-roll makes great material for location establishing shots` (not only wide shots, but close-ups as well - Sometimes less is more).**
 
     B-ROLL IS EASY TO SHOOT. YOU CAN MAKE LOTS OF IT. SOME IS BOUND TO BE USEFULL.
 
-- **`Mark shots that are requred for your story to make sence` in your shotlist. `Shoot these first.`**
+- **`PRIORITIZE MAIN SHOTS`**
 
-    THE MAIN STORY SHOTS TAKE PRIORITY OVER THE PREETTY ONES!
+    Mark shots that are requred for your story to make sence in your shotlist. Shoot these first. **The main story shots take priority over the preetty ones!**
 
-- **If you are `shooting in multiple locations` (even locations close by), `plan the shoot beforehand!`**
+- **`PLAN THE SHOOTING SHEDULE BEFOREHAND`**
 
-    SAVE YOURSELF A TON OF TIME AND PHYSICAL LABOUR ON LOCATION!
+    If you are shooting in multiple locations or even locations close by plan the shoot route earlier **Minimize the need to move equipement and people around.**
 
-- **`Diversify lighting and shadows on your subject` using shadows cast by existing obstacles. Position the subject half in the shadows. Seek out buildings, spaces under bridges, large trees.**
+- **`MAKE YOUR ENVIRONMENT WORK FOR YOU - DIVERSIFY LIGHTING`**
 
-    MAKE YOUR ENVIRONMENT WORK FOR YOU
+    **Use shadows cast by existing obstacles.** Create diverse and interesting lighting for your subjects. Position the subject half in the shadows. Seek out buildings, spaces under bridges, large trees.
 
 ---
 
