@@ -1,4 +1,4 @@
-# Advanced Editing, 30.09.2022
+# Advanced Editing - Kuba Dąbrowski, 30.09.2022
 
 ## 1. Montarz i praca montarzysty
 
