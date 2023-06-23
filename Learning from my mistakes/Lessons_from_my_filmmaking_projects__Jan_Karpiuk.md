@@ -168,12 +168,19 @@
 
 ### Bad
 
-- color temp.
-- too little light (it's easier to make the footage darker in post than to remove ridiculus ammounts of noise)
+- **`KNOW THE COLOR TEMPERATURE OF YOUR LIGHTS`**
+
+    Even RAW file format wont help you in postroduction color correction if the initial color temperature is way off.
+
+- **`EXPOSE CORRECTLY - MAKE SHADOWS DARKER IN POST`**
+  
+  Too little light - badly esposed image will be verry noisy. It's easier and faster to make the footage darker in post than to remove ridiculus ammounts of noise from it. **You need a lot of light even for the scenes happening in complete darkness.**
 
 ### Good
 
-- Invest in an interesting costumes for the actors. It might just be a single piece of clothing.
+- **`CHARACTERS "POP" WITH COSTUMES`**
+  
+  Invest in interesting costumes for the actors. It might just be a single piece of clothing. **Character's need custom clothing to comunicate their personalities and predicaments.**
 
 ---
 
@@ -191,6 +198,8 @@
 -
 
 ### Good
+
+- **`KNOW YOUR CAMERA - DYNAMIC RANGE & SIGNAL TO NOISE RATIOS`**
 
 - brake for pizza (time to reflect on work done so far)
 - go over the plot, character's backstory and motivation with actors
