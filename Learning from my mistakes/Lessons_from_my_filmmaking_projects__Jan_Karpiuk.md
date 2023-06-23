@@ -194,7 +194,7 @@
   
     Make sure you get a good night's rest before the shoot. Sleep depravation will make you sloppy, forgetfull and iritable. **You will miss important detalis and be hard to work with on set.**
 
-- **`THE PRODUCTION MANAGER NEEDS TO UNDERSTAND YOUR VISION`**
+- **`PRODUCTION MANAGER NEEDS TO UNDERSTAND YOUR VISION`**
   
   Explain your vision to the production manager especialy. They will be the person on set double checking you. Filmmaking is a colaboration. **You can't remember everything at once!**
 
@@ -250,4 +250,6 @@
 
 ### Good
 
-+
+- **`CORE TAKEAWAY MESSAGE`**
+
+    Further elaboration... **Trully important part of the elaboration.**
