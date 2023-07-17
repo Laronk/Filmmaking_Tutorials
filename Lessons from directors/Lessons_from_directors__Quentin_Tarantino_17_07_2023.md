@@ -1,4 +1,4 @@
-# Lessons from directors - Quentin Tarantino, 14.07.2023
+# Lessons from directors - Quentin Tarantino, 17.07.2023
 
 ## Outstanding Screenplays: ["10 Screenwriting Tips from Quentin Tarantino on how he wrote Pulp Fiction and Inglourious Basterds"](https://www.youtube.com/watch?v=WSpqFn5TRCk)
 
