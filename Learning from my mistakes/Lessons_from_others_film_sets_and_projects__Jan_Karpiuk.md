@@ -122,14 +122,32 @@
 
 ---
 
-## 5. `""` | Film set (dd.mm.yyyy):
+## 5. `"???"` | Film set (08.09.2000):
+
+**ROLE:** Location Scout Assistant
+
+### Bad
+
+- **`Make sure you know the shooting day shedule`**
+
+- **`Eating only sugar snacks all day make your head hurt`**
+
+### Good
+
++ **`Do not take personal photos on set`**
+
++ **`Use GPS in your car`** to move between locations quickly and efficiently
+
+---
+
+## 6. `""` | Film set (dd.mm.yyyy):
 
 **ROLE:**
 
 ### Bad
 
--
+- **``**
 
 ### Good
 
-+
++ **``**
