@@ -181,3 +181,17 @@ Nawet łączenia kabli z bębnów są na pętelkę.
 ### 55. **`Nie widziałem stacji ładownaia baterii do kamery, czy odbiorników i przekaźników audio`**
 
 ### 56. **`Wielkie trójnogiz kołami pod światło większe niż C-standy`**
+
+### 57. **`Ludzie z ekipy (poza gripami) ubierają raczej adidasy i luźne trampki`**
+
+### 58. **`ludzie czasem zerkają w telefon, gdy odpoczywają, ale nie za długo`**
+
+### 59. **`gripowie używają czołowych latarkek po zmroku`**
+
+### 60. **`gripowie używają rękawiczkek antystatycznych (z izolacją antystatyczną)`**
+
+### 61. **`Rodzaj modyfikatora światła - balon ze światłem wewnątrz (nazwałbym to "moon light")`**
+
+### 62. **`Kamera - ARRI mini LF`**
+
+### 63. **`Zgrywka - data wrangler`**
