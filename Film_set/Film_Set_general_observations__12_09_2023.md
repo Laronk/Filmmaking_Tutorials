@@ -110,18 +110,37 @@ Wszystko nadal zaczyna sie od wyboru miejsca ze wzgl. na jakiś raczej jeden kon
 
 ### 36. **`Kretywne wykorzystanie ogromnego butterfly-a ze strony grippów jako osłony przed słońcem dla operatora kamery, który musiał ciągle siedzieć w jednym miejscu`**
 
-### 37. **`Foto przychodzi `**
+### 37. **`Foto przychodzi na daną lokację po skończonych zdjeciach (nawet po zdjęciach technicznych), w czasie gdy faktyczna ekipa przenosi sie na nową lokację`**
 
-### 38. **``**
+### 38. **`dobrze jest stać za namiotem reżyserskim (video village) - nie przeszkadzasz w ujęćiach, słyszysz uwagi reżysera i możesz obserwować pracę kamery`**
 
-### 39. **``**
+### 39. **`Tilt kamery mierzy się / liczy się własnoręcznie (z trójkąta)`**
 
-### 40. **``**
+### 40. **`świetnym przewodnikiem po planie jest Skałt lokacji, gdyż zna wizję filmu / reklamy, zna dane miejsca, jest rozpoznawalny i przedewszystkim na planie przeważnie ma czas Cię oprowadzić`**
 
-### 41. **``**
+### 41. **`Agregat prądotwórczy musi mieć równomiernie obciążone fazy, by nie uszkodzić prądnicy`**
 
-### 42. **``**
+Nie może dojść do sytuacji, gdzie jedna z faz ma 50A obciążenia a inne po 0A. Może za to być na jednej z faz 50A obciążenia a na pozostałych po 20A.
 
-### 43. **``**
+### 42. **`Agregat wykorzystywany na planie był przystosowany do obciążenia ~160A`**
 
-### 30. **``**
+### 43. **`Wytłumienie agregatu jest konieczne, gdyż w przeciwnym razie szum jest porównywalny z tym w serwerowni`**
+
+### 44. **`Lampy "Dino" i Jumbo nagrzewają się do tego stiopnia podczas swojej ciągłej pracy, że powietrze nad nimi drży od gorąca`**
+
+### 45. **`Kamera na planie był w stanie osiągać obraz o rozdzielczości 8,5k`**
+
+
+### 46. **`Ekipa filmowa składała się z ludzi z całej Polski - specjaliści z całego kraju zjeżdżają się do pracy`**
+
+
+### 44. **``**
+
+
+### 44. **``**
+
+
+### 44. **``**
+
+
+### 44. **``**
