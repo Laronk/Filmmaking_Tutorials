@@ -134,13 +134,115 @@ Nie może dojść do sytuacji, gdzie jedna z faz ma 50A obciążenia a inne po 0
 ### 46. **`Ekipa filmowa składała się z ludzi z całej Polski - specjaliści z całego kraju zjeżdżają się do pracy`**
 
 
-### 44. **``**
+### 47. **`Zdjęcia nocne - plan zaczyna się ok. 17, 2,5h rozstawiania sprzętu i jego testów (przygotowanie planu)`**
 
 
-### 44. **``**
+### 48. **`Pierwsze zdjęcia planowane na godzinę 19:30 - 20:00`**
 
 
-### 44. **``**
+### 49. **`Alladyn - nazwa jakiegoś światła`**
 
 
-### 44. **``**
+### 50. **`3 duże reflektory + mnóstwo małych z gridami, ogromna lampa na wysięgu (15m w górę)`**
+
+### 51. **`Światła można regulować sumą (suma natężenia)`**
+
+### 52. **`Worki z piaskiem dla ustabilizowania statywów`**
+
+### 53. **`Worki z piaskiem dla ustabilizowania statywów`**
+
+### 54. **`Focus puller ma linie focusu nastawione na kolor zielony`**
+
+### 55. **`Bluescreen 4x4 stawiamy za drzewem`**
+
+### 56. **`Asystent VFX artysty spisał położenie fizyczne kamery od focus pullera`**
+
+### 57. **`Słupki "drogowe" - "cone" wyznaczaja granice planu + są od wewnątrz oświetlone`**
+
+### 58. **`Griptracki przy samym planie`**
+
+### 59. **`VFX artysta i jego asystent mają wstęp na teren plan, inni siedzą przy wideo village by nie podeptać trawy`**
+
+### 60. **`HDR jest robiony - lustrzana/srebrna kula i matowa middle gray kula ustawiane w scenie w miejscu kompozytowania obiektów 3D i nagrywana kamerą`**
+
+### 61. **`bluescreen zastępuje greenscreen w plenerze`**
+
+### 62. **`clean take - bez światła (ale ze snopem światła, gdyż ten reflektor akurat gra jak obiekt w scenie)`**
+
+### 63. **`Kamera sobie stoi zaparkowana na dolly`**
+
+### 64. **`"Czy mogę Michał prosić o wyłączenie księżyca?" - kierownik planu`**
+
+### 65. **`Wózek z sprzętem kamerowym stoi w pobliżu kamery`**
+
+### 66. **`Drewniane klocki uzywane jako blokady nóg stolików i trójnogów na płaskich, równych powierzchniach`**
+
+### 67. **`Techniczne ujęcie jest tym razem robione na początek z blue screenem w tle`**
+
+### 68. **`Griperzy na wyposarzeniu mają okuulary przeciwsłoneczne (jak muszą szybko podejść do włączonej lampy od frontu)`**
+
+### 69. **`Ujęcie "pack-shotowe" - robili z ziemi, na jakimś worku leży kamera`**
+
+### 70. **`Wykorzystane szkło - 35mm, gdzie wpierw rozważali 28mm`**
+
+### 71. **`Snopy światła - UFO to praktyczne efekty - reflektory`**
+
+### 72. **`Jako grip trzeba umieć wiązać różne węzły`**
+
+### 73. **`LUT na ekranie poglądowym nazywa się SOBO_V2.cube, choć nagrania nie były w sobotę, lech we środę`**
+
+### 74. **`Rozdzielczość nagrywania 8,6k`**
+
+### 75. **`Dla VFX dużo dubli (wariacji tych samych ujęć) z różnym natężeniem światła i symulowanymi efektami pogodowymi`**
+
+### 76. **`Klatkaż - 25FPS`**
+
+### 77. **`Shutter - 180 stopni`**
+
+### 78. **`Zdjęcia nocne - Filtr ND: clear`**
+
+### 79. **`Światło na 15m wysiegu sterowane z ziemi - programowalne ścieżki`**
+
+### 80. **`Film robiony do animatica 30s - co do sekundy powtarzane ujęcia`**
+
+### 81. **`Clear filter założony na obiektyw by dmuchanie sprężonym powietrzem w trawę nie uszkodziło drogiego sprzętu przypadkowo wydmuchyjąc z ziemi kamyk`**
+
+### 82. **`Kamera osłonięta od sztucznego, mocnego wiatru czarnymi flagami`**
+
+### 83. **`Clean plate - bez podnośnikai bez księżyca, tylko ambientowo oświetlona polana`**
+
+### 84. **`Ciepłe ubranie - pikowany bezrękawnik`**
+
+### 85. **`Overlay nałożoy na live preview - szukają kadru dokładnie jak na animaticu`**
+
+### 86. **`Absolutny "lockoff" i troszkę "francuz" wchodzi (DOP tak do kamery powiedział)`**
+
+### 87. **`W Polsce dzień zdjęciowy trwa 11h. W Niemczech już 8h...`**
+
+### 88. **`Dmuchawy na sprężone powiertrze robiły praktyczny sztuczny wiatr`**
+
+### 89. **`Namioty na sprzęt kamery rozstawiane w tej samej sekundzie, jak tylko zaczyna padać - ratuja drogi sprzęt momentalnie`**
+
+### 90. **`Sprawdzać pogode przed planem! - Dostosowywać ubiór pod temperaturę i deszcz`**
+
+### 91. **`Zabrać płaszcz przeciwdeszczowy! Nie parasol, by mieć obie ręce wolne do pracy.`**
+
+### 92. **`Koreańczycy mają inną kulturę pracy - ogromny szacunek dla starszych i niepodważanie autorytetów pod żadnym pozorem, nawet gdy się ewidentnie mylą`**
+
+### 93. **`Branża filmowa zatrudnia na tyle mało ludzi, że po 1,5 roku pracy można zacząć kojażyć ludzi na planach z imienia`**
+
+### 94. **`Warszawa centralnym ośrodkiem pracy`**
+
+### 95. **`Praca na umowę zlecenie pod firmą "uzupełnienia" planu`**
+
+### 96. **`HDR - w VFX jest nazwą skrótową na High Dynamic Range Lighting`**
+
+### 97. **``**
+
+### 98. **``**
+
+### 99. **``**
+
+### 84. **``**
+
+### 84. **``**
