@@ -32,7 +32,7 @@ Protagonist and Marla - she calls
 
 ## 8. **Fun and Games `[?-?]`**
 
-Narrator and Tyler's fight club grows in numbers. They start 
+Narrator and Tyler's fight club grows in numbers. Narrator starts seeing the world differently.
 
 ## 9. **Midpoint `[?]`**
 
@@ -44,7 +44,7 @@ Tyler and the recruits from project Mayhem start terroryzing the city.
 
 ## 11. **All is Lost `[?]`**
 
-Tyler crashes the car with Narrator in it and vanishes. 
+Tyler crashes the car with Narrator in it and vanishes.
 
 ## 12. **Dark Night of the Soul `[?-?]`**
 
