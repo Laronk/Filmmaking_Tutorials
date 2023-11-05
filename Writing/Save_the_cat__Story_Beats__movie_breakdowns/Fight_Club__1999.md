@@ -28,7 +28,7 @@ Tyler and The Narrator (protagonist) start a fight club
 
 ## 7. **B Story `[?]`**
 
-Protagonist and Marla - she calls
+Suicidal Marla calls Narrator - Tyler starts relationship with Marla of with the Narrator is jealous.
 
 ## 8. **Fun and Games `[?-?]`**
 
