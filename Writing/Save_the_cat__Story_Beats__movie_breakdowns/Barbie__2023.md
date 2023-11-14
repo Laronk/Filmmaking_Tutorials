@@ -61,7 +61,7 @@ Daughter comes around in the story and convinces Mother to go save Barbie Land.
     * Barbie, human Mother and Daughter, weird Barbie, Alan, and some other Barbies formulate a plan to get the Barbie Land back from Kans. 
   * **EXECUTE THE PLAN `[92]`:**
     * Barbie team reverse the Barbie brainwashing and reestablish the Barbie constitution.
-  * **HIHG TOWER SUPRISE `[95]`:**
+  * **HIGH TOWER SURPRISE `[95]`:**
     * Mattel company man try to revert new Barbie Land to the state from the begining.
   * **DIG DEEP DOWN `[101]`:**
     * Barbie understands her emotional need - she wants to become a real woman.
