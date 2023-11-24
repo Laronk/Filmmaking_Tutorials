@@ -184,7 +184,7 @@
 
 ---
 
-## 5. `"PULP NOIR"` | MINE AGH Challenge: ""
+## 5. `"PULP NOIR"` | MINE AGH Challenge: "Exaggeration"
 
 ### Result: [PULP NOIR | Short Film](./Lessons_from_past_filmmaking_projects__Jan_Karpiuk.md)
 
@@ -235,6 +235,111 @@
 - **`DIRECTOR - KNOW YOUR ROLE ON SET`**
   
   Yor true **role as a director on set is to keep actors' emotions in check and dialogue on track.** Make sure you are getting the performance you want. **Trust (but verify) your crew**- give people responsibilities: audio, camera and lighting if you can. You are only a single person, wearing multiple hats might overwhelm you and cause you to miss something important.
+
+---
+
+## 6. `"OSTATNI DZIEŃ"` | Short Film
+
+### Result: [OSTATNI DZIEŃ | Short Film](https://www.youtube.com/watch?v=0beuCopFzZI)
+
+### Bad
+
+- **`DENOISE YOUR FINAL MATERIAL`**
+
+- **`MAKE SURE THE MICROPHONE DOES NOT RUB AGAINST THE WIND BREAKING MATERIAL`**
+
+### Good
+
+- **`TAKE PART IN FILM COMPETITIONS/FESTIVALS`**
+
+- **`WHEN WORKING WITH NON ACTORS - WRITE FOR THE PERSON YOU ARE CASTING`**
+
+- **`MAKE FILMS FOR FUN - NOT ONLY TO LEARN SOMETHING`**
+
+Filmmaking can be a fun time spending activity for you and the people you care about.
+
+- **`REHEARSE WITH YOUR ACTORS BEFORE THE SHOOT`**
+
+- **`A SMARTPHONE CAMERA IS GOOD ENOUGH FOR A SHORT FILM`**
+
+- **`CHEAP GEAR CAN PRODUCE SATISFACTORY RESULTS`**
+
+    Invest in a selfie stick - the most basic camera gear
+
+- **`BEFORE WRITING A SCENE BREAK IT DOWN USING STICKY NOTES METHOD`**
+
+---
+
+## 7. `"DEAD END"` | MINE AGH Challenge: "DEPTH"
+
+### Result: [DEAD END | Short Film](./Lessons_from_past_filmmaking_projects__Jan_Karpiuk.md)
+
+### Bad
+
+- **`TEST SHOOTING AND EDITING THE PLANNED STUNTS AND FIGHT SCENES BEFORE PRINCIPAL PHOTOGRAPHY`**
+
+- **`PROVIDE FILM CREW WITH HOT BEVERAGES IN COLD SHOOTING LOCATIONS`**
+
+- **`AS A DIRECTOR COLABORATE WITH DOP ON A SHOTLIST`**
+
+Have a complete shot list ready before the shoot day.
+
+- **`GIVE ACTORS TIME TO MEMORIZE THE SCRIPT`**
+
+Have the final script version ready at least a couple of days before the actual shoot.
+
+- **`BUY THINGS FOR THE FILM AND HAVE THEM SHIPPED A COUPLE DAYS BEFORE THE SHOOT`**
+
+    ...or have a contingency plan for when the shipping does not arrive on time.
+
+- **`AS A DIRECTOR - UNDERSTAND HOW TO APPROACH WITH DIRECTING EACH ACTOR`**
+
+    Actors, depending on their experience level and working method, will need different style of directing, differently defined feedback. Make sure to know what each of your actors wants from you.
+
+### Good
+
+- **`SELECT AND TRUST YOUR CREW`**
+
+- **`SCREENWRITING - LOCATION FIRST APPROACH`**
+
+    Use all the specific quirks and features of the location to your advantage. Create a compelling story where the location plays a key role.
+
+- **`WHEN WRITING A SCRIPT FOCUS SOLELY ON ENTERTAINING AND NOT CONFUSING THE READER`**
+
+    Your script needs to read well - like an interesting article or a fun short story. Do not focus on the filmmaking aspects when screenwriting. Instead, focus on characters, emotions and the story you want to tell.
+
+- **`VALUE THE ART OVER GEAR`**
+
+    A steady shot might not fit the story/character emotional state as well as a more primitive/chaotic shaky handheld shot. Just because you finally have access to cool and expensive gear does not mean you should use it.
+
+- **`CALL AND EMAIL PEAOPLE - GET ACCESS TO COOL LOCATIONS`**
+
+- **`PLAN SHOOTING SCHEDULE WITH CRAFT (MEAL), SMOKE AND TOILET BREAKS IN MIND`**
+
+- **`NOBODY WANTS TO WORK HUNGRY`**
+
+    Provide your crew with snacks, drinks, water and energy drinks, and at least one hot meal every 4 hours (more if possible).
+
+- **`ESTABLISH A BATERY RECHARGING STATION ON LOCATION`**
+
+- **`MAKE TIME IN SHOOTING SCHEDULE TO MODIFY LIGHTING (ALREADY EXISTING/ON LOCATION OR CREATED)`**
+
+- **`RED FOOD DIE MAKES FOR A CONVINCING FAKE BLOOD`**
+
+    Furthermore, it is edible and easily cleaned with wet wipes.
+
+- **`WRITE SCRIPT AFTER BREAKING THE STORY DOWN USING THE STICKY NOTES METHOD`**
+
+- **`WHEN SCREENWRITING KNOW THE CHANGING (MOMENT-TO-MOMENT) OBJECTIVES OF THE CHARACTERS AS WELL AS THE GENERAL WANT/NEED OF THE CHARACTER`**
+
+    When you know what the character intends to do with their words, you know what might say.
+
+- **`SCOUT LOCATION WITH YOUR DOP`**
+
+- **`PROVIDE THE FILM CREW NECESARY INFORMATION ABOUT THE SHOOTING LOCATION`**
+
+    Make shure everybody knows where the location is, where the exit/entrance is, where the toilets, smoking areas, craft services, and the set are. Ensure everybody knows the rules and limitations imposed upon you by the location manager/host.
+
 
 ---
 
