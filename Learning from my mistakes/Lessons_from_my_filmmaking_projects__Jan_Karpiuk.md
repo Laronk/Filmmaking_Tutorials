@@ -334,12 +334,13 @@ Have the final script version ready at least a couple of days before the actual 
 
     When you know what the character intends to do with their words, you know what might say.
 
+- **`DIRECTING - IDENTIFY CHARACTER OBJECTIVES ON EVERY LINE OF DIALOGUE AND WRITE DOWN QUES FOR DIRECTING ACTORS IN YOUR SCRIPT PRINT`**
+
 - **`SCOUT LOCATION WITH YOUR DOP`**
 
 - **`PROVIDE THE FILM CREW NECESARY INFORMATION ABOUT THE SHOOTING LOCATION`**
 
     Make shure everybody knows where the location is, where the exit/entrance is, where the toilets, smoking areas, craft services, and the set are. Ensure everybody knows the rules and limitations imposed upon you by the location manager/host.
-
 
 ---
 
