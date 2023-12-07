@@ -276,71 +276,81 @@ Filmmaking can be a fun time spending activity for you and the people you care a
 
 ### Bad
 
-- **`TEST SHOOTING AND EDITING THE PLANNED STUNTS AND FIGHT SCENES BEFORE PRINCIPAL PHOTOGRAPHY`**
+- **FIGHT CHOREOGRAPHY: `TEST SHOOTING AND EDITING THE PLANNED STUNTS AND FIGHT SCENES BEFORE PRINCIPAL PHOTOGRAPHY`**
 
-- **`PROVIDE FILM CREW WITH HOT BEVERAGES IN COLD SHOOTING LOCATIONS`**
+- **???: `PROVIDE FILM CREW WITH HOT BEVERAGES IN COLD SHOOTING LOCATIONS`**
 
-- **`AS A DIRECTOR COLABORATE WITH DOP ON A SHOTLIST`**
+- **DIRECTING: `COLABORATE WITH DOP ON A SHOTLIST`**
 
 Have a complete shot list ready before the shoot day.
 
-- **`GIVE ACTORS TIME TO MEMORIZE THE SCRIPT`**
+- **???: `GIVE ACTORS TIME TO MEMORIZE THE SCRIPT`**
 
 Have the final script version ready at least a couple of days before the actual shoot.
 
-- **`BUY THINGS FOR THE FILM AND HAVE THEM SHIPPED A COUPLE DAYS BEFORE THE SHOOT`**
+- **???: `BUY THINGS FOR THE FILM AND HAVE THEM SHIPPED A COUPLE DAYS BEFORE THE SHOOT`**
 
     ...or have a contingency plan for when the shipping does not arrive on time.
 
-- **`AS A DIRECTOR - UNDERSTAND HOW TO APPROACH WITH DIRECTING EACH ACTOR`**
+- **DIRECTING: `UNDERSTAND HOW TO APPROACH WITH DIRECTING EACH ACTOR`**
 
     Actors, depending on their experience level and working method, will need different style of directing, differently defined feedback. Make sure to know what each of your actors wants from you.
 
 ### Good
 
-- **`SELECT AND TRUST YOUR CREW`**
+- **TEAMWORK: `SELECT AND TRUST YOUR CREW`**
 
-- **`SCREENWRITING - LOCATION FIRST APPROACH`**
+    Focus on key role and perform to the best of our abilities. Employ the people you trust to handle the other key roles on set. Make sure everybody knows what their role is.
 
-    Use all the specific quirks and features of the location to your advantage. Create a compelling story where the location plays a key role.
+- **SCREENWRITING: `LOCATION FIRST APPROACH`**
 
-- **`WHEN WRITING A SCRIPT FOCUS SOLELY ON ENTERTAINING AND NOT CONFUSING THE READER`**
+    Use all the specific quirks and features of the location to your advantage. Create a compelling story where the location plays a key role. Make characters use their environment.
 
-    Your script needs to read well - like an interesting article or a fun short story. Do not focus on the filmmaking aspects when screenwriting. Instead, focus on characters, emotions and the story you want to tell.
+- **SCRENWRITING: `FOCUS SOLELY ON ENTERTAINING AND NOT CONFUSING THE READER`**
 
-- **`VALUE THE ART OVER GEAR`**
+    Your script needs to read well - like an interesting article or a fun short story. Do not focus on the filmmaking aspects when screenwriting. Instead, focus on characters, goals and obstacles, emotions and the story you want to tell.
+
+- **DOP: `VALUE THE ART OVER GEAR`**
 
     A steady shot might not fit the story/character emotional state as well as a more primitive/chaotic shaky handheld shot. Just because you finally have access to cool and expensive gear does not mean you should use it.
 
 - **`CALL AND EMAIL PEAOPLE - GET ACCESS TO COOL LOCATIONS`**
 
-- **`PLAN SHOOTING SCHEDULE WITH CRAFT (MEAL), SMOKE AND TOILET BREAKS IN MIND`**
+- **SHOOT SCHEDULE: `MAKE TIME FOR CREW NEEDS`**
+
+    PLAN SHOOTING SCHEDULE WITH CRAFT (MEAL), SMOKE AND TOILET BREAKS IN MIND
 
 - **`NOBODY WANTS TO WORK HUNGRY`**
 
     Provide your crew with snacks, drinks, water and energy drinks, and at least one hot meal every 4 hours (more if possible).
 
-- **`ESTABLISH A BATERY RECHARGING STATION ON LOCATION`**
+- **GEAR: `ESTABLISH A BATERY RECHARGING STATION ON LOCATION`**
 
-- **`MAKE TIME IN SHOOTING SCHEDULE TO MODIFY LIGHTING (ALREADY EXISTING/ON LOCATION OR CREATED)`**
+    Many factors affect battery life. Make sure to have a place on location for recharging batteries and the crew knows where it is.
 
-- **`RED FOOD DIE MAKES FOR A CONVINCING FAKE BLOOD`**
+- **SHOOT SCHEDULE: `GAFFERS AND GRIPS NEED TIME TO SETUP LIGHTS`**
 
-    Furthermore, it is edible and easily cleaned with wet wipes.
+    MAKE TIME IN SHOOTING SCHEDULE TO MODIFY LIGHTING (ALREADY EXISTING/ON LOCATION OR CREATED)
 
-- **`WRITE SCRIPT AFTER BREAKING THE STORY DOWN USING THE STICKY NOTES METHOD`**
+- **MAKEUP: `RED FOOD DIE MAKES FOR A CONVINCING FAKE BLOOD`**
 
-- **`WHEN SCREENWRITING KNOW THE CHANGING (MOMENT-TO-MOMENT) OBJECTIVES OF THE CHARACTERS AS WELL AS THE GENERAL WANT/NEED OF THE CHARACTER`**
+    Furthermore, it is cheap, edible, easily cleaned with wet wipes and does not ruin clothes (use cold water).
+
+- **SCREENWRITING: `BEFORE WRITING DO A SCRIPT BREAKDOWN`**
+
+    WRITE SCRIPT/SCENE AFTER BREAKING THE STORY DOWN USING THE STICKY NOTES METHOD
+
+- **SCREENWRITING: `KNOW THE CHANGING (MOMENT-TO-MOMENT) OBJECTIVES OF THE CHARACTERS AS WELL AS THE GENERAL WANT/NEED OF THE CHARACTER`**
 
     When you know what the character intends to do with their words, you know what might say.
 
-- **`DIRECTING - IDENTIFY CHARACTER OBJECTIVES ON EVERY LINE OF DIALOGUE AND WRITE DOWN QUES FOR DIRECTING ACTORS IN YOUR SCRIPT PRINT`**
+- **DIRECTING: `IDENTIFY CHARACTER OBJECTIVES ON EVERY LINE OF DIALOGUE AND WRITE DOWN QUES FOR DIRECTING ACTORS IN YOUR SCRIPT PRINT`**
 
-- **`SCOUT LOCATION WITH YOUR DOP`**
+- **PREPRODUCTION: `SCOUT LOCATION WITH YOUR DOP`**
 
-- **`PROVIDE THE FILM CREW NECESARY INFORMATION ABOUT THE SHOOTING LOCATION`**
+- **LOCATION LOGISTICS: `THE CREW NEEDS SHOOTING LOCATION INFORMATION`**
 
-    Make shure everybody knows where the location is, where the exit/entrance is, where the toilets, smoking areas, craft services, and the set are. Ensure everybody knows the rules and limitations imposed upon you by the location manager/host.
+    Make sure everybody knows where the location is, where the exit/entrance is, where the toilets, smoking areas, craft services, and the set are. Ensure everybody knows the rules and limitations imposed upon you by the location manager/host.
 
 ---
 
