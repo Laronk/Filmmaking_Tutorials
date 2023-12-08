@@ -280,6 +280,8 @@ Filmmaking can be a fun time spending activity for you and the people you care a
 
 - **???: `PROVIDE FILM CREW WITH HOT BEVERAGES IN COLD SHOOTING LOCATIONS`**
 
+- **???: `ALLOW ACTORS TO PRACTICE WITH THEIR RESPECTIVE PROPS (ESPECIALY IF THEY NEED TO BE HANDLED IN THE RIGHT WAY BY THE CHARACTER)`**
+
 - **DIRECTING: `COLABORATE WITH DOP ON A SHOTLIST`**
 
 Have a complete shot list ready before the shoot day.
