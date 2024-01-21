@@ -1,4 +1,4 @@
-# Szkolenie z dźwięku - Bartek Bieżca, 28.04.2023
+# Szkolenie z dźwięku - Bartek Bieżyca, 28.04.2023
 
 ## Czym jest dźwięk
 
@@ -41,7 +41,7 @@
 
 ---
 
-## Post processig audio
+## Post procesig audio
 
 ### kompresja
 
@@ -153,4 +153,4 @@ Edycja
 ### Skala Lufs-owa (niższe częstotliwści są postrzegalnie głośniejsze dla ludzkiego ucha)
 
 * -19:-16 LUFS - **lektor**
-* -14 LUFS - **muzka**
+* -14 LUFS - **muzyka**
