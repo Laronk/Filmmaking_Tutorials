@@ -298,6 +298,10 @@ Have the final script version ready at least a couple of days before the actual 
 
     Actors, depending on their experience level and working method, will need different style of directing, differently defined feedback. Make sure to know what each of your actors wants from you.
 
+- **DIRECTING: `CONSIDER ACTORS' DICTION AS A FORM OF EXPRESSING THEIR RESPECTIVE CHARACTERS`**
+
+    Pay attention to actors' dictions during their performance. Characters speak differently depending on their background. Example: a university proffesor will not be convincingly potrayed when the actor's diction is slacking.
+
 ### Good
 
 - **TEAMWORK: `SELECT AND TRUST YOUR CREW`**
