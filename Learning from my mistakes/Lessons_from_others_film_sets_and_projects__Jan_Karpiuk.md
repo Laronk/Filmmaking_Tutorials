@@ -193,7 +193,83 @@ In case problems with the primary idea fail to be resolved by morning (shooting 
 
 ---
 
-## 7. `""` | Film set (dd.mm.yyyy)
+## 7. `"Nie na miesjcu"` | Film set (23.02.2024)
+
+**ROLE:** Gaffer
+
+### Bad
+
+- **``**
+
+### Good
+
+- **``**
+
+---
+
+## 8. `"Słucham"` | Film set (03.2024 - 05.2024)
+
+**ROLE:** Gaffer
+
+### Bad
+
+- **``**
+
+### Good
+
+- **``**
+
+---
+
+## 9. `"Weles"` | Film set (04.04.2024 - 05.04.2024)
+
+**ROLE:** Best Boy Electric
+
+### Bad
+
+- **`If possible use magic arms out of camera view instead of zip-ties`**
+
+It's quicker to adjust position of a light fixed using a magicarm provided that the magicarm has a loose grip or is broken
+
+- **`When fixing lights to windows/other structures that when moved/opened/adjusted can fail (light will fall and get damaged or worse - hit someone) make sure to announce to everybody on set not to touch the light support structure - best to additionaly mark the support some bright color if possible`**
+
+### Good
+
+- **``**
+
+---
+
+## 10. `"Ufolud"` | Film set (08.04.2024 - 09.04.2024)
+
+**ROLE:** Best Boy Electric
+
+### Bad
+
+- **`Wire extention cords might have integrated overheating brakers - when connecting e.g. HMI M40 drawing full power, the wire extension cord braker might trip from overheating`**
+
+Use larger cables and connectors designed to work flawlessly with HMI lights.
+
+### Good
+
+- **`Use a single C-stand with a ultra-bounce and a piece of muzlin fabric to buld a quick and small booklight`**
+
+- **`To mount a large lights (like eg. ARRI M40) use at least a combo stand with an adjustable leg height and weight the structure down using sandbags`**
+
+C-stands do not provide adequate support are not enough support for the larger lights, especially if placing lights high up.
+
+- **`Take additional extension cors with you`**
+
+Never know when you might need one.
+
+- **`Good to have a packet of glasses wipes - cleaning a bulb, film claps, your glasses, etc.`**
+
+- **`Have many clamps with you (at least ~10)`**
+
+You can get woodworking plastic clamps cheap in any hardware store. They are not as good as proffesional grip clamps, but will do the job most of the time.
+
+---
+
+## 11. `""` | Film set (dd.mm.yyyy)
 
 **ROLE:**
 
